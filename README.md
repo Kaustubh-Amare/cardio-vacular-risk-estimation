@@ -1,18 +1,9 @@
-# cardio-vacular-risk-estimation
-Supervised ML classification
+# Cardiovascular Risk Prediction
+## Supervised classification ML project
+The data comes from a cardiovascular research that is being conducted on people living in Framingham, Massachusetts. Predicting whether the patient has a 10-year chance of developing coronary heart disease is the categorization goal (CHD). The dataset contains information on the patients. There are 15 qualities and more than 4,000 records in it. Every quality carries the chance of risk. Risk factors include demographic, behavioural, and medical concerns.
 
-#### Column Details
 
-| Field | Description || Field | Description |
-|-------|-------------||-------|-------------|
-|Age|Age of the patient||totChol|Cholestrol measure|
-|Education|Eduaction of the patient||sysBP|systolic blood pressure|
-|Sex|male or female("M" or "F")||diaBP|diastolic blood pressure|
-|is_Smoking|Whether smoking currently or not||BMI|Body Mass Index|
-|cigsPerDay|Cigarettes smoked per day||heartRate|Heart Rate Measure|
-|BPMeds|whether or not the patient was on blood pressure medication||glucose|Level of glucose in th body|
-|prevalentStroke|whether or not the patient had previously had a stroke||prevalentHyp| whether or not the patient was hypertensive |
-|diabetes|Patient has Diabetes or not||TenYearCHD|10-year risk of coronary heart disease CHD(binary: “1”, means “Yes”, “0” means “No”|
+
 
 
 
